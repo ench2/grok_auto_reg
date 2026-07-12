@@ -18,3 +18,7 @@ cookies/
 screenshots/
 *.log
 *.bak
+
+# local proxy credential lists
+all_proxies.txt
+*proxies*.txt
